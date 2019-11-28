@@ -1,4 +1,4 @@
-# buycycle
+# Buycycle
 
 Privacy Policy
 built the Buycycle app as a Free app. This SERVICE is provided by at no cost and is intended for use as is.
